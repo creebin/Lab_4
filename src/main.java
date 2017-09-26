@@ -58,7 +58,7 @@ public class main {
         int chosenOption;
         int gameNumber = 1;
         int currentHand = 0;
-        int dealersHand = 21;
+        int dealersHand ;
         int playerWins =0;
         int dealerWins = 0;
         int ties = 0;
